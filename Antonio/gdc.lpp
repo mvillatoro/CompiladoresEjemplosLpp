@@ -9,6 +9,7 @@ Inicio
     Retorne a
     Sino
     Retorne gcd(b, a mod b)
+    fin si
 Fin
 
 Inicio
